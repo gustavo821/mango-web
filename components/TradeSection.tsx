@@ -82,35 +82,7 @@ const TradeSection = () => {
               </div>
             </div>
           </section>
-           </div> */}
-        <div className="max-w-7xl mx-auto px-4 transform skew-y-3">
-          <section className="py-12 px-3 lg:mt-28 md:mt-28 sm:mt-24 xs:mt-50">
-            <div className="flex flex-wrap items-center lg:text-center md:text-center sm:text-left">
-              <div className="px-2 order-1 lg:order-none mx-auto">
-                <h2 className="mb-6 leading-tight font-semibold font-heading lg:text-5xl sm:text-4xl xs:text-3xl">
-                  Every market cross&#8209;collateralized.
-                </h2>
-                <div className="">
-                  <p className="mb-8 text-white text-opacity-50 leading-relaxed sm:text-2xl xs:text-lg">
-                    Trade spot margined and perpetual futures markets,
-                    permissionless and all on-chain.
-                  </p>
-                </div>
-                <div className="flex flex-row justify-center">
-                  <a
-                    rel="noreferrer"
-                    target="_blank"
-                    href="https://trade.mango.markets/"
-                  >
-                    <Button>Start trading</Button>
-                  </a>
-                  <a rel="noreferrer" target="_blank" href="/markets">
-                    <Link>Learn more</Link>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </section>
+
           {/* 
           <section className="px-3">
             <div className="flex flex-wrap justify-center items-center text-center">
